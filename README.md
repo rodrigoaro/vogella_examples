@@ -1,2 +1,2 @@
-# vogella_examples
+# Vogella examples
 Repo with Vogella website examples.
