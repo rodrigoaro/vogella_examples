@@ -1,0 +1,8 @@
+nov. 25, 2022 4:51:43 P. M. org.example.UseLogger doSomethingAndLog
+SEVERE: Info Log
+nov. 25, 2022 4:51:43 P. M. org.example.UseLogger doSomethingAndLog
+SEVERE: Info Log
+nov. 25, 2022 4:51:43 P. M. org.example.UseLogger doSomethingAndLog
+WARNING: Info Log
+nov. 25, 2022 4:51:43 P. M. org.example.UseLogger doSomethingAndLog
+INFO: Info Log
